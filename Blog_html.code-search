@@ -1,0 +1,66 @@
+# Query: Blog.html
+# Flags: CaseSensitive WordMatch RegExp
+# ContextLines: 1
+
+13 results - 7 files
+
+about.html:
+   42                  <li class="nav-item">
+   43:                   <a class="nav-link" href="log.html">Blog</a>
+   44                  </li>
+
+  125                      <ul class="list-group">
+  126:                       <a class="nav-link" href="Blog.html">Blog</a>
+  127                      </li>
+
+blog.html:
+   41                <li class="nav-item">
+   43:                 <a class="nav-link" href="Blog.html">Blog</a>
+
+   43                </li>
+
+  184                        <ul class="list-group">
+  186:                         <a class="nav-link" href="Blog.html">Blog</a>
+  186                        </li>
+
+cekout.html:
+   42                <li class="nav-item">
+   43:                 <a class="nav-link" href="Blog.html">Blog</a>
+   44                </li>
+
+  132                      <ul class="list-group">
+  133:                       <a class="nav-link" href="Blog.html">Blog</a>
+  134                      </li>
+
+contac.html:
+   42                <li class="nav-item">
+   43:                 <a class="nav-link" href="Blog.html">Blog</a>
+   44                </li>
+
+  162                  <ul class="list-group">
+  163:                   <a class="nav-link" href="Blog.html">Blog</a>
+  164                  </li>
+
+data-diri.html:
+  43                <li class="nav-item">
+  44:                 <a class="nav-link" href="Blog.html">Blog</a>
+  45                </li>
+
+index.html:
+   41                <li class="nav-item">
+   43:                 <a class="nav-link" href="Blog.html">Blog</a>
+
+   43                </li>
+
+  233              <ul class="list-group">
+  235:               <a class="nav-link" href="Blog.html">Blog</a>
+  235              </li>
+
+shop.html:
+   42                <li class="nav-item">
+   43:                 <a class="nav-link" href="Blog.html">Blog</a>
+   44                </li>
+
+  287                  <ul class="list-group">
+  288:                   <a class="nav-link" href="Blog.html">Blog</a>
+  289                  </li>
